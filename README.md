@@ -2,7 +2,7 @@
 
 ---
 
-I'm Ema Antić, and I'm using my skills as a UI/UX Designer and Frontend Developer to design, test and build digital products. 
+I'm Ema Antić, and I'm using my skills as a UI/UX Designer and Frontend Developer to design, test and build digital products. <br>
 Here's a glimpse of my skills and technologies:
 
 ✨ Frontend: HTML, CSS, JavaScript,  SASS<br>
@@ -11,11 +11,12 @@ Here's a glimpse of my skills and technologies:
 
 ## ⚡Featured Project: GitHub Finder
 The GitHub Finder App allows users to search for GitHub profiles and view detailed information about users and their repositories. <br>
-You can try the app here:[emaantic.github.io](https://emaantic.github.io/)<br>
-Check out the repository: [GitHub Finder Repository](https://github.com/emaantic/github-finder-app)<br>
+You can try the app here:  [emaantic.github.io](https://emaantic.github.io/)<br>
+Check out the repository:  [GitHub Finder Repository](https://github.com/emaantic/github-finder-app)<br>
 
 ## 📫Contact
-I'm open to collaboration opportunities and discussing new projects. You can reach me at emaantic196@gmail.com. Let's create something amazing together!
+I'm open to collaboration opportunities and discussing new projects. <br>
+You can reach me at emaantic196@gmail.com. Let's create something amazing together!
 
 Thank you for visiting my GitHub page!
 
