@@ -5,14 +5,14 @@
 I'm Ema Antić, and I'm using my skills as a UI/UX Designer and Frontend Developer to design, test and build digital products. 
 Here's a glimpse of my skills and technologies:
 
-✨ Frontend: HTML, CSS, JavaScript,  SASS
-✨ UI/UX Design: Figma, Protopie
-✨ Tools and Platforms: Git, GitHub, VS Code
+✨ Frontend: HTML, CSS, JavaScript,  SASS<br>
+✨ UI/UX Design: Figma, Protopie<br>
+✨ Tools and Platforms: Git, GitHub, VS Code<br>
 
 ## ⚡Featured Project: GitHub Finder
-The GitHub Finder App allows users to search for GitHub profiles and view detailed information about users and their repositories. 
-You can try the app here:[emaantic.github.io](https://emaantic.github.io/)
-Check out the repository: [GitHub Finder Repository](https://github.com/emaantic/github-finder-app)
+The GitHub Finder App allows users to search for GitHub profiles and view detailed information about users and their repositories. <br>
+You can try the app here:[emaantic.github.io](https://emaantic.github.io/)<br>
+Check out the repository: [GitHub Finder Repository](https://github.com/emaantic/github-finder-app)<br>
 
 ## 📫Contact
 I'm open to collaboration opportunities and discussing new projects. You can reach me at emaantic196@gmail.com. Let's create something amazing together!
